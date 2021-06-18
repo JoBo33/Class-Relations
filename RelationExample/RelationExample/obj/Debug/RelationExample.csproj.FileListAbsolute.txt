@@ -1,0 +1,7 @@
+C:\Users\jb83292\source\repos\RelationExample\RelationExample\bin\Debug\RelationExample.exe.config
+C:\Users\jb83292\source\repos\RelationExample\RelationExample\bin\Debug\RelationExample.exe
+C:\Users\jb83292\source\repos\RelationExample\RelationExample\bin\Debug\RelationExample.pdb
+C:\Users\jb83292\source\repos\RelationExample\RelationExample\obj\Debug\RelationExample.csprojAssemblyReference.cache
+C:\Users\jb83292\source\repos\RelationExample\RelationExample\obj\Debug\RelationExample.csproj.CoreCompileInputs.cache
+C:\Users\jb83292\source\repos\RelationExample\RelationExample\obj\Debug\RelationExample.exe
+C:\Users\jb83292\source\repos\RelationExample\RelationExample\obj\Debug\RelationExample.pdb
