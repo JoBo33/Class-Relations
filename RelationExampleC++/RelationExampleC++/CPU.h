@@ -5,16 +5,10 @@ private:
 	int m_numberOfCores;
 
 public:
-	CPU(int cores): m_numberOfCores(cores)
-	{}
+	CPU(int cores);
 
-	int GetNumberOfCores()
-	{
-		return m_numberOfCores;
-	}
-	void SetNumberOfCores(int cores)
-	{
-		m_numberOfCores = cores;
-	}
+	int GetNumberOfCores();
+
+	void SetNumberOfCores(int cores);
 };
 

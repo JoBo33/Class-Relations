@@ -1,5 +1,11 @@
-﻿  RelationExampleC++.cpp
-c:\users\jb83292\source\repos\relationexamplec++\relationexamplec++\building.h(2): warning C4067: unexpected tokens following preprocessor directive - expected a newline
-c:\users\jb83292\source\repos\relationexamplec++\relationexamplec++\building.h(3): warning C4067: unexpected tokens following preprocessor directive - expected a newline
-c:\users\jb83292\source\repos\relationexamplec++\relationexamplec++\building.h(4): warning C4067: unexpected tokens following preprocessor directive - expected a newline
-  RelationExampleC++.vcxproj -> C:\Users\jb83292\source\repos\RelationExampleC++\Debug\RelationExampleC++.exe
+﻿  Quadrangle.cpp
+  Rectangle.cpp
+  RelationExampleC++.cpp
+c:\users\jb83292\source\repos\class-relations\relationexamplec++\relationexamplec++\building.h(2): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+c:\users\jb83292\source\repos\class-relations\relationexamplec++\relationexamplec++\building.h(3): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+c:\users\jb83292\source\repos\class-relations\relationexamplec++\relationexamplec++\building.h(4): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+c:\users\jb83292\source\repos\class-relations\relationexamplec++\relationexamplec++\building.h(5): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+c:\users\jb83292\source\repos\class-relations\relationexamplec++\relationexamplec++\relationexamplec++.cpp(34): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+  Square.cpp
+  Generating Code...
+  RelationExampleC++.vcxproj -> C:\Users\jb83292\source\repos\Class-Relations\RelationExampleC++\Debug\RelationExampleC++.exe

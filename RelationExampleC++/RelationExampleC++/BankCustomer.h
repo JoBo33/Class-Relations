@@ -7,22 +7,12 @@ private:
 	int m_customerNumber;
 
 public:
-	int GetCustomerNumber()
-	{
-		return m_customerNumber;
-	}
+	int GetCustomerNumber();
 
-	void SetCustomerNumber(int number)
-	{
-		m_customerNumber = number;
-	}
+	void SetCustomerNumber(int number);
 
-	BankCustomer(int customerNumber): m_customerNumber(customerNumber)
-	{}
+	BankCustomer(int customerNumber);
 
-	void FindCheckingAccount(CheckingAccount account)
-	{
-		std::cout << "The account number of the customer with customer number " << m_customerNumber << " is: " << account.GetAccNumber() << " \n";
-	}
+	void FindCheckingAccount(CheckingAccount account);
 };
 

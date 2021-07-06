@@ -31,10 +31,10 @@ int main()
 
 	std::cout << "Composition\n";
 	{
-		Room room[4] = { Room(10, 2.5f), Room(10, 2.5f), Room(10, 2.5f), Room(10, 2.5f) };
-		Building building(room);
+		std::vector<Room> rooms = { Room(10., 2.5f), Room(10., 2.5f), Room(10., 2.5f), Room(10., 2.5f) };
+		Building building(rooms);
 
-		building.SetRoom(room);
+		//building.SetRoom(rooms);
 		building.PrintRoomSize(building.CalculateVolume()); 
 	}
 	std::cout << "\n";

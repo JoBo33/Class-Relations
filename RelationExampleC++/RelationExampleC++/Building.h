@@ -2,35 +2,26 @@
 #include "Room.h";
 #include <string>;
 #include <iostream>;
+#include <vector>;
+
+
 class Building
 {
 private:
 	int m_numberOfRooms;
-	Room *m_room;
+	std::vector<Room> m_rooms;
 
 public:
-	Building(Room room[]) 
-	{		
-		 Room* m_room = room;
-	}
+	Building(std::vector<Room> rooms);
 
-	void SetRoom(Room room[])
+	/*void AddRoom(Room room[])
 	{ 
 		Room* m_room = room;
-	}
+	}*/
 
-	float CalculateVolume() {
-		float volume = 0;
-		for (int i = 0; i < m_numberOfRooms; i++)
-		{
-			volume += m_room[i].GetArea() * m_room[i].GetHeight();
-		}
-		return volume;
-	}
+	float CalculateVolume(); 
 
-	void PrintRoomSize(float size)
-	{
-		std :: cout << "The volume of the room of the building is : " << size;
-	}
+	void PrintRoomSize(float size);
+
 };
 

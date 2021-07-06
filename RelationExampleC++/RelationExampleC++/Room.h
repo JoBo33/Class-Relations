@@ -8,27 +8,14 @@ private:
 public:
 	Room(){}
 
-	Room(int area, float height) : m_area(area), m_height(height)
-	{}
+	Room(int area, float height);
 
-	int GetArea() 
-	{ 
-		return m_area; 
-	}
+	int GetArea();
 
-	void SetArea(int area) 
-	{
-		m_area = area;
-	}
+	void SetArea(int area);
 
-	float GetHeight()
-	{
-		return m_height;
-	}
+	float GetHeight();
 
-	void SetHeight(float height)
-	{
-		m_height = height;
-	}
+	void SetHeight(float height);
 };
 

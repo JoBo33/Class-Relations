@@ -6,22 +6,12 @@ class Rectangle :
 {
 
 public:
-	Rectangle(float sideLengthA, float sideLengthB) : Quadrangle(sideLengthA,sideLengthB, sideLengthA, sideLengthB)
-	{}
+	Rectangle(float sideLengthA, float sideLengthB);
 
-	float CalculateArea()
-	{
-		return m_sideLengthA * m_sideLengthB;
-	}
+	float CalculateArea();
 
-	void PrintPerimeter(float perimeter)
-	{
-		std::cout << "The perimeter of the rectangle is: " << perimeter << "\n";
-	}
+	void PrintPerimeter(float perimeter);
 
-	void PrintArea(float area)
-	{
-		std::cout << "The area of the rectangle is: " << area << "\n";
-	}
+	void PrintArea(float area);
 };
 

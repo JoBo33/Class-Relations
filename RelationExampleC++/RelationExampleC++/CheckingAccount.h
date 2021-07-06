@@ -5,17 +5,11 @@ private:
 	int m_accNumber;
 
 public:
-	CheckingAccount(int accNumber) : m_accNumber(accNumber)
-	{}
-	int GetAccNumber()
-	{
-		return m_accNumber;
-	}
+	CheckingAccount(int accNumber);
 
-	void SetAccNumber(int number)
-	{
-		m_accNumber = number;
-	}
+	int GetAccNumber();
+
+	void SetAccNumber(int number);
 
 };
 

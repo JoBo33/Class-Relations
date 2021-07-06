@@ -5,16 +5,9 @@ private:
 	int m_dRam;
 
 public:
-	GraphicCard(int dRam): m_dRam(dRam)
-	{}
+	GraphicCard(int dRam);
 
-	int GetDRam() 
-	{
-		return m_dRam;
-	}
+	int GetDRam();
 
-	void SetDRam(int dRam)
-	{
-		m_dRam = dRam;
-	}
+	void SetDRam(int dRam);
 };
