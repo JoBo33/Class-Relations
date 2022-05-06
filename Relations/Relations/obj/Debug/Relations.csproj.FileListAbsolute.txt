@@ -1,0 +1,7 @@
+C:\Users\jb83292\source\repos\Relations\Relations\bin\Debug\Relations.exe.config
+C:\Users\jb83292\source\repos\Relations\Relations\bin\Debug\Relations.exe
+C:\Users\jb83292\source\repos\Relations\Relations\bin\Debug\Relations.pdb
+C:\Users\jb83292\source\repos\Relations\Relations\obj\Debug\Relations.csprojAssemblyReference.cache
+C:\Users\jb83292\source\repos\Relations\Relations\obj\Debug\Relations.csproj.CoreCompileInputs.cache
+C:\Users\jb83292\source\repos\Relations\Relations\obj\Debug\Relations.exe
+C:\Users\jb83292\source\repos\Relations\Relations\obj\Debug\Relations.pdb
